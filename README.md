@@ -1,5 +1,7 @@
-##Fuck UTM
-A chrome extension that automatically replaces UTM campaign parameters with "YO+MAMA".  View more information and download [here](http://smithamilli.com/fuck-utm/).
+##Replace UTM
+A chrome extension that automatically replaces UTM campaign parameters with "The Dark Funnel".  Based on an existing extension by Sitha Milli (https://smithamilli.com/fuck-utm/). 
+
+All I did was change what gets replaced - a constant defined in the javascript - and then install it locally
 
 ##Caveats
 - The extension checks the "href" attribute of all <a> tags, so it won't work if a url in a link is shortened.
