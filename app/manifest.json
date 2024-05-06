@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Fuck UTM",
-  "description": "Turn UTM parameter values into 'YO+MAMA'",
+  "name": "Reokace UTM",
+  "description": "Turn UTM parameter values into 'The Dark Funnel'",
   "version": "1.0",
   "permissions": [
     "http://*/*",
