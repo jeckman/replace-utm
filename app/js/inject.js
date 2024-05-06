@@ -16,7 +16,7 @@ var UTM_CODES = [
   'utm_campaign'
 ];
 
-var REPLACER = 'YO%20MAMA';
+var REPLACER = 'The%20Dark%20Funnel';
 
 // Gets the index of the separator in the string
 // Returns the length of the string if seperator not found
